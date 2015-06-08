@@ -1,4 +1,4 @@
-package grails.security.plugin
+package org.centerkey.grails.security
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
