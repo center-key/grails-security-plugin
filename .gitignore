@@ -1,9 +1,8 @@
 # Grails Security Plugin ~ MIT License ~ Copyright (c) 2015 by individual contributors
 
 # Build files
-/.gradle
-/build
-/sp
+/security/.gradle
+/security/build
 
 # Extraneous OS files
 .DS_Store
