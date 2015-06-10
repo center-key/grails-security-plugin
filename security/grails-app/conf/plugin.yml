@@ -1,0 +1,9 @@
+# Grails Security Plugin ~ MIT License ~ Copyright (c) 2015 by individual contributors
+---
+security:
+   roles:
+      - { code: user,    name: User }
+      - { code: admin,   name: Administrator }
+      - { code: dev-ops, name: DevOps }
+   initialSetupUser:   setup@example.com
+   minPasswordLength:  10
